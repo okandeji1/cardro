@@ -12,8 +12,8 @@
     <!-- Color File -->
     <link href="{{ asset('asset2/css/color.css') }}" rel="stylesheet">
 
-    <link rel="shortcut icon" href="{{ asset('asset2/images/favicon.png') }}" type="image/x-icon">
-    <link rel="icon" href="{{ asset('asset2/images/favicon.png') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('asset2/images/favicon.ico') }}" type="image/x-icon">
+    <link rel="icon" href="{{ asset('asset2/images/favicon.ico') }}" type="image/x-icon">
 
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

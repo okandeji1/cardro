@@ -165,7 +165,7 @@
                 key: key, // Replace with your public key
                 // email: document.getElementById('customerEmail').value,
                 email: customerEmail,
-                currency: 'NGN', // Use GHS for Ghana Cedis or USD for US Dollars
+                currency: 'USD', // Use GHS for Ghana Cedis or USD for US Dollars
                 customerName: customerName,
                 customerPhone: customerPhone,
                 ref: '' + Math.floor((Math.random() * 1000000000) +

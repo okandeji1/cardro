@@ -8,10 +8,10 @@
                         <li class="social-title">Follow Us:</li>
                         <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
                         <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                        {{-- ?text=I'm%20interested%20in%20your%20car%20for%20sale
-                        --}}
-                        <li><a href="https://wa.me/2348102200090" target="_blank"><span
-                                    class="fab fa-whatsapp"></span></a>
+                        {{-- ?text=I'm%20interested%20in%20your%20car%20for%20sale --}}
+                        <li><a href="https://wa.me/message/YMN4AKVNHI2EP1?text=I'm%20interested%20in%20your%20cardro%20software"
+                                target="_blank"><span class="fab fa-whatsapp"></span></a>
+
                         </li>
                     </ul>
                 </div>
@@ -20,8 +20,8 @@
                     <ul class="info clearfix">
                         <li class="search-btn"><button type="button" class="theme-btn search-toggler"><span
                                     class="fa fa-search"></span></button></li>
-                        <li><a href="tel:12345615523"><span class="icon fa fa-phone-alt"></span> Call: &nbsp;123 4561
-                                5523</a></li>
+                        <li><a href="tel:12345615523"><span class="icon fa fa-phone-alt"></span> Call:
+                                &nbsp;+12053418168 </a></li>
                     </ul>
                 </div>
             </div>
@@ -34,9 +34,9 @@
             <div class="inner-container clearfix">
                 <!--Logo-->
                 <div class="logo-box">
-                    <div class="logo"><a href="/" title="cardro software"><img
-                                src="{{ asset('asset2/images/logo.png') }}" alt="Cardro software logo"
-                                title="Cardro software"></a></div>
+                    <div class="logo"><a href="/" title="cardro software">
+                            <h4 class="text-white text-capitalize">cardro software</h4>
+                        </a></div>
                 </div>
 
                 <!--Nav Box-->
@@ -88,7 +88,9 @@
         <div class="auto-container clearfix">
             <!--Logo-->
             <div class="logo pull-left">
-                <a href="/" title=""><img src="{{ asset('asset2/images/sticky-logo.png') }}" alt="" title=""></a>
+                <a href="/" title="cardro software">
+                    <h4 class="text-green text-capitalize">cardro software</h4>
+                </a>
             </div>
             <!--Right Col-->
             <div class="pull-right">
@@ -118,7 +120,6 @@
                     <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                     <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
                     <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                    <li><a href="#"><span class="fab fa-youtube"></span></a></li>
                 </ul>
             </div>
         </nav>
