@@ -156,9 +156,9 @@
 
         function payWithPaystack() {
             // Test
-            var key = 'pk_test_ad11304f43dd83da7426ebc49e193cd6a033bcd4';
+            var key = 'pk_test_febf50e506edb99c276dfbada46e05a18251a4eb';
             // Live
-            // var key = "pk_live_8788024222fd48d6fcda8f823fc74ce8ff50faa0";
+            // var key = "pk_live_c7f4e231cd33ad338a29d2cacbf48609d93e7803";
             var handler = PaystackPop.setup({
                 amount: amount *
                     100, // the amount value is multiplied by 100 to convert to the lowest currency unit

@@ -117,7 +117,9 @@ class TransactionController extends Controller
                 CURLOPT_CUSTOMREQUEST => "GET",
                 CURLOPT_HTTPHEADER => array(
                     "Content-Type: application/json",
-                    "Authorization: Bearer sk_test_ff3a8ca11cc7f69d32fd07eb56cde367ac421938",
+                    "Authorization: Bearer sk_test_dd399bb4f089ba1ae76249f029f7a3e38fab2f32",
+                    // Live
+                    // "Authorization: Bearer sk_live_849ad996e3a70ddd204c2e8df6f8366f7dd9275d",
                     "Cache-Control: no-cache",
                 ),
             ));
